@@ -1,0 +1,15 @@
+# project
+LatestBuild
+WeChat_TimeLine_Location_Hook/TargetApp/
+WeChat_TimeLine_Location_Hook/tmp/
+WeChat_TimeLine_Location_HookDylib/WeChat_TimeLine_Location_HookDylib.mm
+
+# Mac
+.DS_Store
+
+# .gitignore~
+.gitignore~
+
+# Pods
+Pods/
+Podfile.lock
