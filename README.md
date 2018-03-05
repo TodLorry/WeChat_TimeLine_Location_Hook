@@ -16,7 +16,7 @@ You can customize the location everywhere in the world when you publish your tim
 ##### 1.把项目clone到本地
 
 ```
-git@github.com:TodLorry/WeChat_TimeLine_Location_Hook.git
+git clone git@github.com:TodLorry/WeChat_TimeLine_Location_Hook.git
 ```
 
 ##### 2.进入到项目，安装pod
