@@ -6,7 +6,8 @@ WechatApp/WechatApp_Headers/
 
 # project
 LatestBuild
-WechatApp/TargetApp/
+WechatApp/TargetApp/WeChat.app
+WechatApp/TargetApp/WeChat.ipa
 WechatApp/tmp/
 WechatAppDylib/WechatAppDylib.mm
 
