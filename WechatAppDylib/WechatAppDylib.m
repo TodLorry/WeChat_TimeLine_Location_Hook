@@ -1,14 +1,14 @@
 //  weibo: http://weibo.com/xiaoqing28
 //  blog:  http://www.alonemonkey.com
 //
-//  WeChat_TimeLine_Location_HookDylib.m
-//  WeChat_TimeLine_Location_HookDylib
+//  WechatAppDylib.m
+//  WechatAppDylib
 //
-//  Created by albus on 2018/3/3.
+//  Created by albus on 2018/2/24.
 //  Copyright (c) 2018年 albus. All rights reserved.
 //
 
-#import "WeChat_TimeLine_Location_HookDylib.h"
+#import "WechatAppDylib.h"
 #import <CaptainHook/CaptainHook.h>
 #import <UIKit/UIKit.h>
 #import <Cycript/Cycript.h>

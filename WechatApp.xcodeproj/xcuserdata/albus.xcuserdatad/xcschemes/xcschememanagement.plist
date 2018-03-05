@@ -4,15 +4,15 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>WeChat_TimeLine_Location_Hook.xcscheme</key>
+		<key>WechatApp.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>0</integer>
+			<integer>3</integer>
 		</dict>
-		<key>WeChat_TimeLine_Location_HookDylib.xcscheme</key>
+		<key>WechatAppDylib.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>1</integer>
+			<integer>4</integer>
 		</dict>
 	</dict>
 </dict>

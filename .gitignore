@@ -1,8 +1,14 @@
+# 去掉headers
+WechatApp/WeChat_Headers/
+
+# 去掉headers的xcode的project
+WechatApp/WechatApp_Headers/
+
 # project
 LatestBuild
-WeChat_TimeLine_Location_Hook/TargetApp/
-WeChat_TimeLine_Location_Hook/tmp/
-WeChat_TimeLine_Location_HookDylib/WeChat_TimeLine_Location_HookDylib.mm
+WechatApp/TargetApp/
+WechatApp/tmp/
+WechatAppDylib/WechatAppDylib.mm
 
 # Mac
 .DS_Store

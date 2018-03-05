@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:WeChat_TimeLine_Location_Hook.xcodeproj">
+      location = "self:WechatApp.xcodeproj">
    </FileRef>
 </Workspace>
