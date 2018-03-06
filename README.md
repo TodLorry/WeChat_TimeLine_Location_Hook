@@ -42,6 +42,4 @@ pod install
 
 ## 支持作者
 
-逆向工作的开发占用了我大量的时间和精力，如果你觉得对你有帮助，请支持我，这样我会有更大的动力去完善、优化它！
-
-![IMG_4542](https://github.com/TodLorry/WeChat_TimeLine_Location_Hook/blob/master/Resource_Of_README/IMG_4542.JPG)
+算了，别支持了。感觉搞逆向的都是一群穷屌丝，问他们要钱实在是太残忍了！尼玛！
